@@ -1,0 +1,2 @@
+# AHK-SAMPFUNCS-API
+Взаимодействие AHK и SAMPFUNCS
